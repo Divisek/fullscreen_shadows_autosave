@@ -1,0 +1,15 @@
+C:\Users\divoc\OneDrive\Plocha\fullscreen_shaDows_autosave\fullscreen_shaDows_autosave\bin\Debug\net6.0\fullscreen_shaDows_autosave.exe
+C:\Users\divoc\OneDrive\Plocha\fullscreen_shaDows_autosave\fullscreen_shaDows_autosave\bin\Debug\net6.0\fullscreen_shaDows_autosave.deps.json
+C:\Users\divoc\OneDrive\Plocha\fullscreen_shaDows_autosave\fullscreen_shaDows_autosave\bin\Debug\net6.0\fullscreen_shaDows_autosave.runtimeconfig.json
+C:\Users\divoc\OneDrive\Plocha\fullscreen_shaDows_autosave\fullscreen_shaDows_autosave\bin\Debug\net6.0\fullscreen_shaDows_autosave.dll
+C:\Users\divoc\OneDrive\Plocha\fullscreen_shaDows_autosave\fullscreen_shaDows_autosave\bin\Debug\net6.0\fullscreen_shaDows_autosave.pdb
+C:\Users\divoc\OneDrive\Plocha\fullscreen_shaDows_autosave\fullscreen_shaDows_autosave\obj\Debug\net6.0\fullscreen_shaDows_autosave.csproj.AssemblyReference.cache
+C:\Users\divoc\OneDrive\Plocha\fullscreen_shaDows_autosave\fullscreen_shaDows_autosave\obj\Debug\net6.0\fullscreen_shaDows_autosave.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\divoc\OneDrive\Plocha\fullscreen_shaDows_autosave\fullscreen_shaDows_autosave\obj\Debug\net6.0\fullscreen_shaDows_autosave.AssemblyInfoInputs.cache
+C:\Users\divoc\OneDrive\Plocha\fullscreen_shaDows_autosave\fullscreen_shaDows_autosave\obj\Debug\net6.0\fullscreen_shaDows_autosave.AssemblyInfo.cs
+C:\Users\divoc\OneDrive\Plocha\fullscreen_shaDows_autosave\fullscreen_shaDows_autosave\obj\Debug\net6.0\fullscreen_shaDows_autosave.csproj.CoreCompileInputs.cache
+C:\Users\divoc\OneDrive\Plocha\fullscreen_shaDows_autosave\fullscreen_shaDows_autosave\obj\Debug\net6.0\fullscreen_shaDows_autosave.dll
+C:\Users\divoc\OneDrive\Plocha\fullscreen_shaDows_autosave\fullscreen_shaDows_autosave\obj\Debug\net6.0\refint\fullscreen_shaDows_autosave.dll
+C:\Users\divoc\OneDrive\Plocha\fullscreen_shaDows_autosave\fullscreen_shaDows_autosave\obj\Debug\net6.0\fullscreen_shaDows_autosave.pdb
+C:\Users\divoc\OneDrive\Plocha\fullscreen_shaDows_autosave\fullscreen_shaDows_autosave\obj\Debug\net6.0\fullscreen_shaDows_autosave.genruntimeconfig.cache
+C:\Users\divoc\OneDrive\Plocha\fullscreen_shaDows_autosave\fullscreen_shaDows_autosave\obj\Debug\net6.0\ref\fullscreen_shaDows_autosave.dll

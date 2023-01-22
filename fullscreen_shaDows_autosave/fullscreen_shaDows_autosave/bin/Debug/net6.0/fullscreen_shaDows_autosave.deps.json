@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "fullscreen_shaDows_autosave/1.0.0": {
+        "runtime": {
+          "fullscreen_shaDows_autosave.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "fullscreen_shaDows_autosave/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
